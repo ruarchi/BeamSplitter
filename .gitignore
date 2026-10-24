@@ -1,0 +1,23 @@
+# Build and check output
+out/
+*.echo
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Scratch and editor files
+scratch/
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+*.orig
+*.swp
+.vscode/
+.idea/

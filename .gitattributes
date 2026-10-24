@@ -1,0 +1,5 @@
+# Normalise text to LF in the repository; keep shell scripts LF on every platform so bash can run them.
+* text=auto
+*.sh text eol=lf
+*.stl binary
+*.png binary
